@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surjith S Kumar</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-- 🌱 I’m currently learning **MongoDB, Express, React.js, Angular.js, Node.js**
+- 🌱 I’m currently learning **MongoDB, Express, React.js, Angular, Node.js**
 
 - 📫 How to reach me **surjithskumar23@gmail.com**
 
